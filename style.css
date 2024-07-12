@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+div {
+  color: red ;
+  text-align:  center;
+  font-size: 28px;
+  /* background-color: blue; */
+}
+#red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  /* margin-top: 20px; */
+}
+#yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  /* margin-top: 20px; */
+}
+#green {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  /* margin-top: 20px; */
+}
+.main-color {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+#Clear-game:hover{
+  color:red;
+  background-color: green;
+  
+}
